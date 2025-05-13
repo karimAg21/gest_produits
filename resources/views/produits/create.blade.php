@@ -31,6 +31,7 @@
             <input type="number" class="form-control" id="quantite" name="quantite" required>
         </div>
         <button type="submit" class="btn btn-primary">Ajouter</button>
+        <a href="">SSSSSSSSSSSSSSSSSSSSSSSSSSSSS</a>
         <a href="{{ route('produits.index') }}" class="btn btn-secondary">Annuler</a>
     </form>
 @endsection
